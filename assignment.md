@@ -6,8 +6,6 @@
 <img width="547" height="365" alt="images" src="https://github.com/user-attachments/assets/ee0295e1-7b71-4021-bbac-73f00ccfbec5" />
 
 <p>This is a HTML paragraph.</p>
-<br>
-<br>
 <p>This is another one.</p>
 
 <p>This is some text in <i>italics.</i></p>
