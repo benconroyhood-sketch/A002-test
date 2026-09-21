@@ -8,17 +8,20 @@ Vel in eiusmod reprehenderit qui irure quibusdam occaecat fuga quo qui et. Rerum
 
 <img width="547" height="365" alt="images" src="https://github.com/user-attachments/assets/ee0295e1-7b71-4021-bbac-73f00ccfbec5" />
 
-<p>This is a HTML paragraph.</p><br><br>
+<p>This is a HTML paragraph.</p>
+<br>
+<br>
 <p>This is another one.</p>
 
 <p>This is some text in <i>italics.</i></p>
 
-<p>I want to make a <strong>bold</strong>statement.</p>
+<p>I want to make a <strong>bold</strong> statement.</p>
 
 <p>Shopping list</p>
 <li>Milk</li>
 <li>Eggs</li>
 <li>Bacon</li>
 </ul>
+<br>
 
-<p>This is an example of <span style="text-decoration: underline;">underlined text.</span></p
+<p>This is an example of <u>underlined text.</u></p
